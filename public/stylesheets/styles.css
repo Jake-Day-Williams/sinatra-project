@@ -1,0 +1,17 @@
+body {
+  background: url("http://cdn.pcwallart.com/images/gradient-wallpaper-4.jpg")no-repeat center center;
+  width: 90%;
+  color: white;
+}
+
+a:link {
+  color: yellow;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a:visited {
+    color: purple;
+}
